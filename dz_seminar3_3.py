@@ -23,11 +23,8 @@ while backpack <= MAX_BACKPACK:# пока реальный рюкзак не б�
 
 
 
-print('What things you want to take?')
-#a = input()
-#print(a)
-#if a == cup:
-#    massa = my_things['cup']
+
+
 
 
 
